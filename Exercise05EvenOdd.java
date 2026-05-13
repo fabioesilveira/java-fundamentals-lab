@@ -19,7 +19,7 @@ public class Exercise05EvenOdd {
 
             if (sum % 2 == 0) {
 
-                System.out.println("" +num1 + num2 + num3 + " The result is even!");
+                System.out.println("" + num1 + num2 + num3 + " The result is even!");
 
             } else {
 

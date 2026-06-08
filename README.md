@@ -1,10 +1,10 @@
 # Java Fundamentals Lab
 
-A collection of beginner-friendly Java exercises created while practicing core programming concepts such as variables, conditionals, loops, arrays, methods, classes, objects, and basic input/output.
+A collection of Java exercises completed as part of my Computer Science studies while expanding my software development experience beyond JavaScript and TypeScript. The repository demonstrates hands-on practice with Java syntax, object-oriented programming principles, data structures, control flow, methods, classes, and problem-solving techniques commonly used in modern software development.
 
 ## Purpose
 
-This repository documents my introduction to Java programming as part of my Computer Science studies. Through a series of hands-on exercises, I explored core concepts including variables, conditionals, loops, arrays, methods, classes, and object-oriented programming principles. Each exercise was designed to strengthen my problem-solving abilities and establish a solid foundation in Java development.
+This repository documents my introduction to Java programming while expanding my experience across different programming languages and paradigms. Through a series of hands-on exercises, I explored core concepts including variables, conditionals, loops, arrays, methods, classes, and object-oriented programming principles. Each exercise was designed to strengthen my problem-solving abilities and establish a solid foundation in Java development.
 
 ## Topics Covered
 
@@ -17,7 +17,7 @@ This repository documents my introduction to Java programming as part of my Comp
 - Methods
 - Classes and objects
 - Basic calculations
-- Simple program structure
+- Program structure and organization
 
 ## Exercises
 

@@ -4,7 +4,7 @@ A collection of Java exercises completed as part of my Computer Science studies 
 
 ## Purpose
 
-This repository documents my introduction to Java programming while expanding my experience across different programming languages and paradigms. Through a series of hands-on exercises, I explored core concepts including variables, conditionals, loops, arrays, methods, classes, and object-oriented programming principles. Each exercise was designed to strengthen my problem-solving abilities and establish a solid foundation in Java development.
+The purpose of this repository is to document my progress learning Java and to serve as a reference for the fundamental concepts and programming patterns explored throughout my Computer Science studies.
 
 ## Topics Covered
 
